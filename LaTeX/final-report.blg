@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: final-report.aux
+The style file: SIGCHI-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: sample.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 6 entries,
+            5283 wiz_defined-function locations,
+            1259 strings with 15391 characters,
+and the built_in function-call counts, 6538 in all, are:
+= -- 890
+> -- 200
+< -- 0
++ -- 60
+- -- 202
+* -- 444
+:= -- 692
+add.period$ -- 32
+call.type$ -- 6
+change.case$ -- 44
+chr.to.int$ -- 6
+cite$ -- 6
+duplicate$ -- 377
+empty$ -- 262
+format.name$ -- 78
+if$ -- 1410
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 8
+newline$ -- 88
+num.names$ -- 36
+pop$ -- 128
+preamble$ -- 1
+purify$ -- 68
+quote$ -- 0
+skip$ -- 133
+stack$ -- 0
+substring$ -- 838
+swap$ -- 53
+text.length$ -- 262
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 54
+warning$ -- 0
+while$ -- 34
+width$ -- 0
+write$ -- 125

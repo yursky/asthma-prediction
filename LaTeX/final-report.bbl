@@ -1,0 +1,97 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{00}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{{\tt DOI:}\penalty0{#1}\ }
+  \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       #1{#1}          \fi
+
+\bibitem{caretrx}
+{CareTRx}. 2017.
+\newblock Asthma and COPD Management Made Simple.
+\newblock Web.   (10 March 2017).
+\newblock
+\newblock
+\shownote{Retrieved May , 2017 from \url{https://www.caretrx.com/}.}
+
+
+\bibitem{lowpower}
+{James Dieffenderfer}, {Henry Goodell}, {Steven Mills}, {Michael Mcknight},
+  {Shanshan Yao}, {Feiyan Lin}, {Eric Beppler}, {Brinnae Bent}, {Bongmook Lee},
+  {Veena Misra}, {and} {et al.} 2016.
+\newblock \showarticletitle{Low-Power Wearable Systems for Continuous
+  Monitoring of Environment and Health for Chronic Respiratory Disease}.
+\newblock {\em IEEE Journal of Biomedical and Health Informatics\/} {20}, 5
+  (2016), 1251–1264.
+\newblock
+\showDOI{%
+\url{http://dx.doi.org/10.1109/jbhi.2016.2573286}}
+
+
+\bibitem{asthma:flyer}
+{EPA}. 2014.
+\newblock ASTHMA AND OUTDOOR AIR POLLUTION.
+\newblock Flyer.   (1 May 2014).
+\newblock
+\newblock
+\shownote{Retrieved May 3, 2017 from
+  \url{https://www3.epa.gov/airnow/asthma-flyer.pdf}.}
+
+
+\bibitem{farr_2016}
+{Christina Farr}. 2016.
+\newblock IBM Is Using Weather Data To Help Predict Asthma Attacks.
+\newblock   (Oct 2016).
+\newblock
+\showURL{%
+\url{https://www.fastcompany.com/3064996/ibm-is-using-weather-data-to-help-predict-asthma-attacks}}
+
+
+\bibitem{whereami}
+{Robmathers}. 2013.
+\newblock robmathers/WhereAmI.
+\newblock   (Aug 2013).
+\newblock
+\showURL{%
+\url{https://github.com/robmathers/WhereAmI}}
+
+
+\bibitem{weber}
+{Stephanie~A. Weber}, {Tabassum~Z. Insaf}, {Eric~S. Hall}, {Thomas~O. Talbot},
+  {and} {Amy~K. Huff}. 2016.
+\newblock \showarticletitle{Assessing the impact of fine particulate matter (PM
+  2.5 ) on respiratory-cardiovascular chronic diseases in the New York City
+  Metropolitan area using Hierarchical Bayesian Model estimates}.
+\newblock {\em Environmental Research\/}  {151} (2016), 399–409.
+\newblock
+\showDOI{%
+\url{http://dx.doi.org/10.1016/j.envres.2016.07.012}}
+
+
+\end{thebibliography}
