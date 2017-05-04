@@ -73,6 +73,15 @@
 \url{https://www.fastcompany.com/3064996/ibm-is-using-weather-data-to-help-predict-asthma-attacks}}
 
 
+\bibitem{mapper}
+{MapCustomizer}. 2017.
+\newblock Map Customizeropen.
+\newblock Web.   (10 March 2017).
+\newblock
+\newblock
+\shownote{Retrieved May , 2017 from \url{https://www.MapCustomizer.com/}.}
+
+
 \bibitem{whereami}
 {Robmathers}. 2013.
 \newblock robmathers/WhereAmI.
@@ -92,6 +101,15 @@
 \newblock
 \showDOI{%
 \url{http://dx.doi.org/10.1016/j.envres.2016.07.012}}
+
+
+\bibitem{zahradnik}
+{Fred Zahradnik}. 2014.
+\newblock How Does a Wi-Fi Positioning System Work?
+\newblock   (2014).
+\newblock
+\showURL{%
+\url{https://www.lifewire.com/wifi-positioning-system-1683343}}
 
 
 \end{thebibliography}

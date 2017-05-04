@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  4 MAY 2017 04:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  4 MAY 2017 04:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1129,14 +1129,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Non-PDF special ignored!
 
 ]
-<figures/sensor.jpg, id=69, 398.99063pt x 298.86656pt>
+<figures/sensor.jpg, id=73, 398.99063pt x 298.86656pt>
 File: figures/sensor.jpg Graphic file (type jpg)
 
 <use figures/sensor.jpg>
 Package pdftex.def Info: figures/sensor.jpg used on input line 253.
 (pdftex.def)             Requested size: 243.98238pt x 182.75523pt.
 
-<figures/characteristics.jpg, id=70, 602.25pt x 459.7175pt>
+<figures/characteristics.jpg, id=74, 602.25pt x 459.7175pt>
 File: figures/characteristics.jpg Graphic file (type jpg)
 
 <use figures/characteristics.jpg>
@@ -1152,52 +1152,41 @@ Overfull \hbox (22.71684pt too wide) in paragraph at lines 273--273
 []  \T1/txtt/m/n/10 concentration = 1.1*pow(ratio,3)-3.8*pow(ratio,2)[] 
  []
 
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 306.
-
-LaTeX Warning: Citation `zahradnik' on page \thepage  undefined on input line 3
-06.
-
-<figures/concentration.png, id=72, 1692.3225pt x 854.19125pt>
+[2 <./figures/sensor.jpg> <./figures/characteristics.jpg>]
+<figures/concentration.png, id=91, 1692.3225pt x 854.19125pt>
 File: figures/concentration.png Graphic file (type png)
 
 <use figures/concentration.png>
-Package pdftex.def Info: figures/concentration.png used on input line 310.
+Package pdftex.def Info: figures/concentration.png used on input line 314.
 (pdftex.def)             Requested size: 243.98238pt x 123.14421pt.
- [2 <./figures/sensor.jpg> <./figures/characteristics.jpg>] <figures/map.png, i
-d=88, 851.18pt x 680.5425pt>
+
+<figures/map.png, id=94, 851.18pt x 680.5425pt>
 File: figures/map.png Graphic file (type png)
-
-<use figures/map.png>
-Package pdftex.def Info: figures/map.png used on input line 359.
+ <use figures/map.png>
+Package pdftex.def Info: figures/map.png used on input line 363.
 (pdftex.def)             Requested size: 219.58264pt x 175.55577pt.
- (./final-report.bbl
-
-Package balance Warning: You have called \balance in second column
-(balance)                Columns might not be balanced.
-
-[3 <./figures/concentration.png> <./figures/map.png>]
+ [3 <./figures/concentration.png> <./figures/map.png>] (./final-report.bbl
 Overfull \hbox (12.71745pt too wide) in paragraph at lines 68--74
 \T1/txtt/bx/n/8 ibm-[]is-[]using-[]weather-[]data-[]to-[]help-[]predict-[]asthm
 a-[]attacks$[][][]  
  []
 
 ) [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 425.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 425.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 446.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 446.
  (./final-report.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 425.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 425.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 446.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 446.
 Package rerunfilecheck Info: File `final-report.out' has not changed.
-(rerunfilecheck)             Checksum: 4E858CBFC72EE05D88560EBA37DDDC88;466.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 425.
+(rerunfilecheck)             Checksum: F883069078D236DFD055A70B9CEA61A2;514.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 446.
  ) 
 Here is how much of TeX's memory you used:
- 19631 strings out of 493014
- 359448 string characters out of 6133351
- 448475 words of memory out of 5000000
- 22582 multiletter control sequences out of 15000+600000
- 75063 words of font info for 190 fonts, out of 8000000 for 9000
+ 19639 strings out of 493014
+ 359512 string characters out of 6133351
+ 450534 words of memory out of 5000000
+ 22581 multiletter control sequences out of 15000+600000
+ 72520 words of font info for 192 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,10n,56p,422b,572s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
@@ -1209,10 +1198,10 @@ ist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2016/texmf-dist/fonts/t
 ype1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/t
 imes/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmri
 8a.pfb>
-Output written on final-report.pdf (4 pages, 807186 bytes).
+Output written on final-report.pdf (4 pages, 808290 bytes).
 PDF statistics:
- 152 PDF objects out of 1000 (max. 8388607)
- 130 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 500000)
- 24169 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 167 PDF objects out of 1000 (max. 8388607)
+ 145 compressed objects within 2 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 23665 words of extra memory for PDF output out of 24883 (max. 10000000)
 
